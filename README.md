@@ -1,5 +1,5 @@
 ### Info
-👋 Hey dear guest, I'm Gleb. Look at the facts about me:\
+👋 Hey dear guest, I'm Gleb. Look at the facts about me:\\
 📍  Novosibirsk, Russia\
 🐍 Python developer (ML/DL)\
 🎓 Bachelor's degree at NSTU, "Software Engineering"\
