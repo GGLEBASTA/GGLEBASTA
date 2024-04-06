@@ -1,16 +1,11 @@
-### Hi there 👋
+### Info
+👋 Hey dear guest, I'm Gleb. Look at the facts about me:
+📍  Novosibirsk, Russia
+🐍 Python developer (ML/DL)
+🎓 Bachelor's degree at NSTU, "Software Engineering"
+🎓 Completed advanced training "Data analytics and machine learning" in Innopolis University
 
-<!--
-**GGLEBASTA/GGLEBASTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+🤖 Machine Learning: PyTorch, Scikit-learn, LightGBM, XGBoost, CatBoost
+🧠 Deep Learning: Word2Vec / Doc2Vec / TF-IDF, BERT, LSTM, GRU
+Other: PostgreSQL, Pyspark, Pandas, Git
