@@ -1,7 +1,7 @@
 ### Info
 👋 Hey dear guest, I'm Gleb. Look at the facts about me:\
 📍  Novosibirsk, Russia\
-🐍 Python developer (ML/DL)\
+🐍 Data Scientist/ML Engineer\
 🎓 Bachelor's degree at NSTU, "Software Engineering"\
 🎓 Completed advanced training "Data analytics and machine learning" in Innopolis University
 
